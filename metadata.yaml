@@ -1,0 +1,56 @@
+_repo: La-Pens-e-de-l-Humanit-Derni-re-oeuvre-de-L.-Tolsto-_43761
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Halpérine-Kaminsky, E. (Ely)
+    aliases:
+    - Kaminsky, Ely Halpérine
+    - Kaminsky, E. Halpérine
+    - Halperine-Kaminsky, E. (Ely)
+    - Halpérine-Kaminsky, Ely
+    birthdate: 1858
+    deathdate: 1936
+    gutenberg_agent_id: '38809'
+    url: http://www.gutenberg.org/2009/agents/38809
+    wikipedia: http://fr.wikipedia.org/wiki/Ely_Halp%C3%A9rine-Kaminsky
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Tolstoy, Leo, graf
+    aliases:
+    - Tolstoi, Leo
+    - Tolstoy, Lev N.
+    - Tolstoy, Graf Leo
+    - Tolstoï, Léon
+    - Толстой, Лев Николаевич
+    birthdate: 1828
+    deathdate: 1910
+    gutenberg_agent_id: '136'
+    url: http://www.gutenberg.org/2009/agents/136
+    wikipedia: http://en.wikipedia.org/wiki/Leo_Tolstoy
+description: ''
+gutenberg_bookshelf: FR Philosophie, Religion et Morale
+gutenberg_issued: '2013-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43761'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Philosophy -- Quotations, maxims, etc.'
+- !lcc 'B'
+tableOfContents: Préface du traducteur -- Préface de l'auteur -- La foi -- Dieu --
+  L'âme -- Une même âme chez tous -- L'amour -- Péchés, tentations, superstitions
+  -- Les excès -- La lubricité -- L'oisiveté -- La cupidité -- La colère -- L'orgueil
+  -- L'inégalité -- La violence -- Le châtiment -- La vanité -- Les fausses croyances
+  -- La fausse science -- L'effort -- La vie est dans le présent -- Le non-agir --
+  La parole -- La pensée -- L'abnégation -- L'humilité -- La véracité -- Le mal --
+  La mort -- Après la mort -- La vie est un bien.
+title: 'La Pensée de l''Humanité
+
+  Dernière oeuvre de L. Tolstoï'
+url: http://www.gutenberg.org/ebooks/43761
